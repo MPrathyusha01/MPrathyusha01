@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prathyusha Mogulluru</h1>
 <h3 align="center">A passionated Data Analyst from India</h3>
 
-- 📚 I’m currently studying **Bachelor of Technology** in Electronics and Communication Engineering 
+- 📚 I completed my **Bachelor of Technology** in Electronics and Communication Engineering 
 
-- 🌱 I’m currently learning **Data Analysis with Python**
+- 🌱 I’m currently working in **Hexaware Technologies**
 
 - 👨‍💻 All of my projects are available at [my Portfolio](https://portfolio.prathyusham1.repl.co/)
 
-- 💬 Ask me about **Python, DataScienc Pipeline, MySQL**
+- 💬 Ask me about **Python, Java, MySQL**
 
 - 📫 My Gmail to reach me at  **prathyusha4501@gmail.com**
 
